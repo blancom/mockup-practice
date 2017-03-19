@@ -1,0 +1,39 @@
+.container {
+  border: 1px solid #ccc;
+  background: #ddd;
+  margin: 0 auto;
+  height: 20rem;
+  width: 20rem;
+}
+
+.item_white {
+  color: white;
+  text-shadow: 0 0 0.1rem #333;
+  letter-spacing: -1px;
+  text-align: left;
+}
+
+.item_black {
+  color: black;
+  text-shadow: 0 0 0.1rem #333;
+  letter-spacing: -1px;
+  text-align: left;
+}
+
+.black {
+  background: black;
+  height: 5rem;
+  width: 30rem;
+}
+
+.gray {
+  background: gray;
+  height: 2rem;
+  width: 20rem;
+}
+
+.white {
+  background: white;
+  height: 8rem;
+  width: 20rem;
+}

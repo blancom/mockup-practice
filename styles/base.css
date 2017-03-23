@@ -112,3 +112,13 @@ html {
   display: block;
   text-align: center;
 }
+
+.table td
+{
+  cellspacing: 0;
+  cellpadding: 4;
+  border: 4px #808080;
+  border-collapse: collapse;
+  bordercolor: #808080;
+  width: 527
+}
